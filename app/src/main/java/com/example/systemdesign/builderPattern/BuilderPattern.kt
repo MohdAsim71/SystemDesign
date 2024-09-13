@@ -1,4 +1,4 @@
-package com.example.systemdesign.BuilderPattern
+package com.example.systemdesign.builderPattern
 
 class User private constructor (
     val name:String,
