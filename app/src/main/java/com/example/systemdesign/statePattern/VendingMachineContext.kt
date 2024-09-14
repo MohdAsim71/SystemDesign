@@ -1,6 +1,6 @@
 package com.example.systemdesign.statePattern
 
-internal class VendingMachineContext {
+ class VendingMachineContext {
     private var state: VendingMachineState? = null
 
     fun setState(state: VendingMachineState?) {

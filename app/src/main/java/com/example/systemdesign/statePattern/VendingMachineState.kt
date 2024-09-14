@@ -1,5 +1,5 @@
 package com.example.systemdesign.statePattern
 
-internal interface VendingMachineState {
+ interface VendingMachineState {
     fun handleRequest()
 }
